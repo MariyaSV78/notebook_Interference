@@ -1,0 +1,53 @@
+﻿Fiber Optic Communication: Uses interference principles to transmit data over long distances with minimal loss, relying on the constructive and destructive interference of light waves.
+
+Fiber Optic Communication: Uses interference principles to transmit data over long distances with minimal loss, relying on the constructive and destructive interference of light waves.
+
+Optical Coherence Tomography (OCT): A non-invasive imaging technique that uses light interference to capture high-resolution images of biological tissues, particularly in ophthalmology.
+
+
+
+1. The Michelson Interferometer - A Laser Lab Alignment Guide
+
+https://www.wiredsense.com/tutorial/the-michelson-interferometer-a-laser-lab-alignment-guide
+
+2. Gravitation waves. The purpose of this post is to describe the construction of a simple “amateur” Michelson-Morley interferometer. The Michelson-Morley interferometer has a place of absolute importance in the history of physics, having been used in the famous experiments carried out to demonstrate the existence of the ether. It is still used as a technological solution for refined instrumental measurements. Very recently it has returned to “vogue” because it constitutes the instrument used in the detection of gravitational waves. The Post presents the construction of the apparatus and how to obtain the interference fringes. Two applications “within reach” of our instrument are also shown : the detection of vibrations and the measurement of the refractive index of glass.
+https://physicsopenlab.org/2020/05/16/michelson-morley-interferometer/
+
+LIGO: https://labcit.ligo.caltech.edu/~BCBAct/talks00/SanDiego00/Forum.PDF
+
+https://www.youtube.com/watch?v=6RVHJ9FVSl4
+
+
+3. MatyhLab modeling Michelson interferometer 
+https://d-arora.github.io/Doing-Physics-With-Matlab/mpDocs/op_michelson.htm
+
+4. In this experiment we explore Michelson Interferometry by investigating few of its many applications in optics. The procedure was used to calculate the wavelength of a Helium-Neon laser using the linear relationship between change in number of fringes and the distance moved by a mirror. The resultant wavelength was calculated to be 640 ± 21 nm. Further, using notions of optical path length and Snell’s law, a relation between refractive index, angle of the glass, and the change in number of fringes emerged, which was then used to calculate the value of the refractive index as 1.65 ± 0.33 .
+
+https://physlab.org/wp-content/uploads/2016/04/Lab_Report_1__PhysLab200_-2.pdf
+
+5. Wavelength measurement of a Helium-Neon laser using a Michelson-type amplitude division interferometer
+
+https://www.ecorfan.org/spain/researchjournals/Aplicacion_Cientifica_y_Tecnica/vol8num21/Journal_of_Scientific_and_Technical_Applications_V8_N21_3.pdf
+
+6. Lab.work: Michelson Interferometer
+https://www.cis.rit.edu/class/simg232/lab8-20033-michelson.pdf
+https://rabiaaslam.weebly.com/uploads/7/1/4/3/7143240/michelson_interferometer.pdf
+
+
+7. Demonstration basic physique phenomena
+https://www.desmos.com/calculator/vk3dxuzbq3?lang=fr
+
+8. Python lib: Michelson interferometer.
+
+https://opticspy.github.io/lightpipes/MichelsonInterferometer.html
+
+9. YouTube 
+https://www.youtube.com/watch?v=_9a5SKCSnEA
+
+https://www.youtube.com/watch?v=5IonkDzAoCk
+
+
+LIGO, VIRGO
+https://labcit.ligo.caltech.edu/~BCBAct/talks00/SanDiego00/Forum.PDF
+
+
