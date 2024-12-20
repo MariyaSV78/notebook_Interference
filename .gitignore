@@ -1,0 +1,11 @@
+# Ignore the entire folder and its contents
+myenv/
+
+# Optional: Ignore specific file types (if needed)
+*.pyc
+*.log
+
+# Optional: Ignore other environment-related files
+.env
+.DS_Store
+*.swp
